@@ -1,7 +1,9 @@
 # Oranssi3
 KDE Plasma väriteema
 
-KDE Plasma Colour Scheme
+KDE Plasma colour scheme
+
+Lightly sovelllustyylillä ja Rounded Rectangle ikoneilla
 
 With Lightly Application style and Rounded Rectangle icon pack
 
